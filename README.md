@@ -29,7 +29,7 @@ Whether you’re working with TensorFlow, PyTorch, or ONNX models, this script o
 
 1️⃣ Clone this repository  
 ```bash
-git clone https://github.com/your-username/converting-model.git
+git clone h[ttps://github.com/your-username/converting-model.git](https://github.com/yashpalsince2004/Converting_model_for-_android.git)
 cd converting-model
 ```
 
